@@ -1,0 +1,4 @@
+easyocr
+Pillow
+streamlit
+pyarrow
